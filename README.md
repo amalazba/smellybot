@@ -26,7 +26,7 @@
 2. Go to Issues tap and view created issues
 3. Click on the links, you will see two files
     1. The first file is the class-level code smells detected in the project where isDC refers to a class that suffer from Data Class smell, and isGC refers to a class that suffer from God Class smell
-    2. The second file is the method-level code smells detected in the project where isFE refers to a method that suffer from Feature Envy smell, and isFE refers to a method that suffer from Long Method smell
+    2. The second file is the method-level code smells detected in the project where isFE refers to a method that suffer from Feature Envy smell, and isLM refers to a method that suffer from Long Method smell
 4. Go to Code tap and check any new files
 
 
